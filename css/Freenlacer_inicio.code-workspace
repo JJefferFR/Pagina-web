@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Freenlacer_inicio",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Freenlacer_inicio"
+	}
+}
